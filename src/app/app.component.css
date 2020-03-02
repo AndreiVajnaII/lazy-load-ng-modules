@@ -1,0 +1,37 @@
+p {
+  font-family: Lato;
+}
+
+:host {
+  display: flex;
+  flex-flow: column;
+}
+
+.buttons {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-evenly;
+  padding: 0.5em;
+}
+
+.contents {
+  display: flex;
+  flex-flow: row;
+}
+
+.anchor {
+  flex: 1;
+  padding: 0.5em;
+  background-color: bisque;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+  background:aqua;
+
+}
