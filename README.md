@@ -8,7 +8,7 @@ Even though you can lazy load a component without a module, sometimes you need t
 
 The rest is a proof of concept "module exploer" that lazy loads a module or the other, displays its components, which can be instantiated.
 
-For an explanation of how this works read [Lazy loading Angular modules with Ivy](https://indepth.dev/lazy-loading-angular-modules-with-ivy/)
+For an explanation of how this works read [Lazy loading Angular modules with Ivy](https://angular.love/lazy-loading-angular-modules-with-ivy)
 
 **NOTE**: As noted in the mentioned article, the "module explorer" does not work when built with the `--prod` flag.
 
